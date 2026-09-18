@@ -1,2 +1,4 @@
-# Ola Mundo
-Primeiro do curso de Git e GitHub
+# Olá, Mundo!
+Primeiro repositório do curso de Git e GitHub
+
+Criado durante o curso do Mestre Guanabara
